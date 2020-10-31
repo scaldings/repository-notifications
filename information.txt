@@ -1,0 +1,4 @@
+sender_example@gmail.com
+sender_password_example
+reviever_example@gmail.com
+target_profile_example (ex. scaldings)
