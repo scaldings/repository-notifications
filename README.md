@@ -1,2 +1,3 @@
 # repository-notifications
-This script check for a user's repositories and send you an email whenever the user creates a new repository.
+This script checks for a user's repositories and sends  
+you an email whenever the user creates a new repository.
